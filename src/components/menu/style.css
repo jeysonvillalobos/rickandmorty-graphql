@@ -1,0 +1,16 @@
+.Menu {
+    width: 100%;
+    padding: 10px;
+    font-size: 11px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    background-color: white;
+    border: 0 solid #d9dee3;
+    box-shadow: 0 2px 6px 0 rgb(67 89 113 / 12%);
+}
+
+.menu-title {
+    color: #6b6aff;
+}
