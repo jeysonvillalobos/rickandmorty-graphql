@@ -1,6 +1,6 @@
 # Rick and Morty GraphQL
 
-This project is created in order to use graphQL
+This project is created in order to use graphQL.
 
 ## Available Scripts
 
